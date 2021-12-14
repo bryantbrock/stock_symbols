@@ -9,7 +9,7 @@ This small function and request has proved immensly useful while building stock 
 All contributions welcome!
 
 ## Documentation
-There is only one function available, `get_symbols`. If you see the code, it is less than 100 lines long, and is simply coopying a network request made the nasdaq api.
+There is only one function available, `get_symbols`. If you see the code, it is less than 100 lines long, and is simply copying a network request made to the nasdaq api.
 
 `getSymbol(**args)`: accepts a number of optional arguments and returns a Python list of dictionaries. No arguments are required.
 
